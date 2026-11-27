@@ -1,0 +1,1 @@
+flask\nflask-cors\npython-dotenv\nopenai\nPyPDF2\npython-docx\ngunicorn
